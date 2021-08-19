@@ -5,7 +5,7 @@
                <div class=row>
                    <div class="col">
                        <h2>Detalles de: </h2>
-                       imprimir los cambios
+                       imprimir 1.0
                     
                    </div>
                </div> 
